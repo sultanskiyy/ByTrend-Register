@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+   padding: 10px 20px;
+   
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+.tel{
+    display: flex;
+     align-items: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+.link{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: #000000A6 ;
+}
+.link a{
+    text-decoration: none;
+    color: #000000A6 ;
+}
+.log{
+    width: 58px;
+    height: 24px;
+    color: #000000A6 ;
+    border: 1px solid #D9D9D9;
+    background-color: white;
+}
+.open{
+    width: 106px;
+    height: 24px;
+    color: #000000A6 ;
+    border: 1px solid #D9D9D9;
+    background-color: white;
+}
+.til{
+    width: 55px;
+    height: 24px;
+    text-align: center;
+    color: #000000A6 ;
+    border: 1px solid #D9D9D9;
+    background-color: white;
+}
+.royxat{
+    margin-top: 24px;
+    border: 1px solid grey;
+    border-radius: 6px;
+    width: 496px;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    display: flex;
+}
+.bosh{
+    color: black;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+.tell{
+    color: #444150;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+}
+.termin{
+    text-align: center;
+    align-items: center;
+}
+.kirish{
+    color: #01BAB3;
+    margin-left: 14px;
+    font-size: 18px;
+}
+.sahifa{
+    margin-top: 56px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+}
+.name{
+    color: #000000D9;
+    font-size: 19px;
+}
+.yulduz{
+    color: #01BAB3;
+}
+.names{
+    color: #000000D9;
+    font-size: 19px;
+    margin-left: 104px;
+}
+.your{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 8px;
+}
+.from{
+    width: 180px;
+    height: 38px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.surname{
+    width: 180px;
+    height: 38px;
+    margin-left: 16px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.sahifa1{
+    margin-top: 24px;
+    display: flex;
+}
+.sana{
+    width: 380px;
+    height: 38px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.sahifa2{
+    margin-top: 24px;
+    display: flex;
+}
+.jinsi {
+  display: flex;
+  gap: 10px;
+}
+.jinsi label {
+  border: 1px solid black;
+  width: 185px;
+  height: 38px;
+  margin-top: 8px;
+  border-radius: 4px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: black;
+}
+.enter{
+    width: 380px;
+    height: 38px;
+    padding-left: 16px;
+    border-radius: 6px;
+    margin-top: 8px;
+    border: 1px solid black;
+}
+.exit{
+    width: 380px;
+    height: 38px;
+    padding-left: 16px;
+    border-radius: 6px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border: 1px solid black;
+}
+.keyingisi{
+    background-color: #01BAB3;
+    width: 380px;
+    height: 38px;
+    margin-bottom: 40px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+.keyingisi a{
+    text-decoration: none;
+    color: white;
+}
+.froms{
+    width: 380px;
+    height: 38px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.telefon{
+    width: 380px;
+    height: 38px;
+    padding-left: 16px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.yuza{
+    margin-top: 22px;
+    display: flex;
+}
+.mamlakat{
+    width: 180px;
+    height: 38px;
+    padding-left: 6px;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+.nitro{
+    color: #000000D9;
+    font-size: 19px;
+    margin-left: 124px;
+}
+.enters{
+    width: 380px;
+    height: 38px;
+    padding-left: 16px;
+    margin-bottom: 88px;
+    border-radius: 6px;
+    margin-top: 8px;
+    border: 1px solid black;
+}
